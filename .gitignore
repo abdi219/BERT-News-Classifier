@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+bert_news_classifier/
+
+.env
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+
+*.log
