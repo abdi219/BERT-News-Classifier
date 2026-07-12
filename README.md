@@ -8,6 +8,12 @@ The objective of this task is to fine tune the `bert-base-uncased` transformer m
 
 ---
 
+## Visualization
+
+<img width="1855" height="896" alt="image" src="https://github.com/user-attachments/assets/9dc28236-a323-4c3d-8c7c-7814fc89fd61" />
+
+---
+
 ## Objectives
 
 * Load and preprocess the AG News dataset.
@@ -104,18 +110,6 @@ Example headlines include:
 ├── License
 └── .gitignore
 ```
-
----
-
-## Internship Information
-
-**Organization:** DevelopersHub Corporation
-
-**Internship:** AI/ML Engineering Advanced Internship
-
-**Task:** Task 1 — News Topic Classifier Using BERT
-
----
 
 ## Learning Outcomes
 
